@@ -1,0 +1,22 @@
+git diff 
+git diff --stage Utils.txt
+git diff filename.txt
+Github credentials : yash7ultrasonic@
+git status
+git add .
+git commit 
+git reset file.txt and git checkout file
+(To unstage file)
+git checkout .
+git pull
+git add -A stages all
+ git add . stages new and modified without deleted
+git add -u stages modified and deleted ,without new 
+git branch by default(master)
+git branch login sys
+git checkout login sys 
+git checkout origin master 
+git merge loginsys
+
+git branch -d loginsys 
+git push -u origin master --delete loginsys
