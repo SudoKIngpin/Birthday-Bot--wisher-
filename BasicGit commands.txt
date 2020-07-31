@@ -1,7 +1,7 @@
 git diff 
 git diff --stage Utils.txt
 git diff filename.txt
-Github credentials : yash7ultrasonic@
+
 git status
 git add .
 git commit 
